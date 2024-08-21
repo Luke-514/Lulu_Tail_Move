@@ -4,6 +4,7 @@
 ・MMDをONにすると尻尾振りをやめます  
   
 # 注意事項など
+・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
 ・ExpressionParameterを8使用します  
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際の尻尾の挙動がいい感じになります  
   

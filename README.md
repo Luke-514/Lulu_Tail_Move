@@ -5,18 +5,14 @@
   
 # 注意事項など
 ・ExpressionParameterを8使用します  
-・床貫通対策コライダーを導入すると座った際の尻尾の挙動がいい感じになります  
-&emsp;https://booth.pm/ja/items/4724758  
+・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際の尻尾の挙動がいい感じになります  
   
 # 導入手順
-1. [Releases](https://github.com/Luke-514/Lulu_Tail_Move/releases/latest)からTail_Move.unitypackageをダウンロードします  
+1. [Moduler Avater](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
   
-2. Moduler Avaterをプロジェクトに追加します  
-https://modular-avatar.nadena.dev/ja  
+2. [Releases](https://github.com/Luke-514/Lulu_Tail_Move/releases/latest)からTail_Move.unitypackageをダウンロードして、プロジェクトにインポートします  
   
-3. Tail_Move.unitypackageをプロジェクトにインポートします  
-  
-4. Assets>Lulu_Tail_Moveの中にあるTail_Move.prefabをアバター直下に追加します  
+3. Assets>Lulu_Tail_Moveの中にあるTail_Move.prefabをアバター直下に追加します  
 <img src="image/Tail_Move.prefab配置場所.png" width="20%" />  
   
 # 参考

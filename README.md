@@ -10,12 +10,12 @@
   
 # 導入手順
 1. Moduler Avaterをプロジェクトに追加します  
- https://modular-avatar.nadena.dev/ja  
+https://modular-avatar.nadena.dev/ja  
   
 2. Tail_Move.unitypackageをプロジェクトにインポートします  
   
 3. Assets>Lulu_Tail_Moveの中にあるTail_Move.prefabをアバター直下に追加します  
- (Tail_Move.prefab配置場所.pngを参考に配置してください)  
+<img src="image/Tail_Move.prefab配置場所.png" width="20%" />  
   
 # 参考
 しぐにゃもブログ  

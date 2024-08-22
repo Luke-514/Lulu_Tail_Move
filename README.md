@@ -37,3 +37,6 @@ Luke514
 Tちゃん  
 わからん  
 ソアラ  
+  
+# Donate(寄付)
+https://buymeacoffee.com/luke514  

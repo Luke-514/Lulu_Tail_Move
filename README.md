@@ -2,6 +2,7 @@
 ・ルル君が尻尾を振ることができるようになります  
 ・Radial Puppetによる速度調整ができます  
 ・MMDをONにすると尻尾振りをやめます  
+<img src="image/Lulu_Tail_Move.gif" width="40%" />  
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  

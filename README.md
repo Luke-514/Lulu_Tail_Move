@@ -11,7 +11,7 @@
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際の尻尾の挙動がいい感じになります  
   
 # 導入手順
-1.&nbsp;[Moduler Avater](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
+1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  
   
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Tail_Move/releases/latest)からTail_Move.unitypackageをダウンロードして、プロジェクトにインポートします  
   

@@ -38,6 +38,7 @@ Luke514
 Tちゃん  
 わからん  
 ソアラ  
+くりたま  
   
 # Donate(寄付)
 https://luke514.booth.pm/items/6031304  

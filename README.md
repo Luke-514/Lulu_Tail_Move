@@ -39,3 +39,6 @@ Tちゃん
 わからん  
 ソアラ  
 くりたま  
+  
+# 寄付
+https://buymeacoffee.com/luke514

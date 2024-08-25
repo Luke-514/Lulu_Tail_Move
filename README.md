@@ -8,7 +8,7 @@
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
 ・ExpressionParameterを8使用します  
 ・MMDをONにした状態でMMDボタンを削除しているような場合は尻尾振りが機能しません  
-・Write DefaultsがOFFになっていると動かない可能性があります  
+・Write Defaultsが統一されていないと動かない可能性があります  
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際の尻尾の挙動がいい感じになります  
   
 # 導入手順

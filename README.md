@@ -9,7 +9,7 @@
 ・ExpressionParameterを8使用します  
 ・MMDをONにした状態でMMDボタンを削除しているような場合は尻尾振りが機能しません  
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際に尻尾が沈まなくなります  
-　(作者はLulu君のTail RootのMax Angleを30、床貫通対策コライダーのscale_configを2に設定しています)  
+　(作者はLulu君のTail RootのMax Angleを30、床貫通対策コライダーのscale_configのscaleを2に設定しています)  
   
 # 導入手順
 1.&nbsp;[Modular Avatar](https://modular-avatar.nadena.dev/ja)をプロジェクトに追加します  

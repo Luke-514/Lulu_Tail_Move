@@ -5,7 +5,7 @@
 <img src="image/Lulu_Tail_Move.gif" width="40%" />  
   
 # 注意事項など
-・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)です  
+・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)です  
 ・ExpressionParameterを8使用します  
 ・MMDをONにした状態でMMDボタンを削除しているような場合は尻尾振りが機能しません  
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際に尻尾が沈まなくなります  

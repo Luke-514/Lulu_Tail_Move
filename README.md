@@ -7,7 +7,7 @@
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)です  
 ・ExpressionParameterを8使用します  
-・MMDをONにした状態でMMDボタンを削除しているような場合は尻尾振りが機能しません  
+・MMDボタンを削除している場合は尻尾振りが機能しない可能性があります  
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際に尻尾が沈まなくなります  
 　(作者はルル君のTail RootのMax Angleを30、床貫通対策コライダーのscale_configのscaleを2に設定しています)  
   

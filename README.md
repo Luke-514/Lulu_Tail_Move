@@ -2,7 +2,7 @@
 ・ルル君が尻尾を振ることができるようになります  
 ・尻尾振り速度の調整ができます  
 ・MMDをONにすると尻尾振りをやめます  
-<img src="image/Lulu_Tail_Move.gif" width="40%" />  
+&emsp;<img src="image/Lulu_Tail_Move.gif" width="40%" />  
   
 # 注意事項など
 ・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)です  
@@ -17,7 +17,7 @@
 2.&nbsp;[Releases](https://github.com/Luke-514/Lulu_Tail_Move/releases/latest)からLulu_Tail_Move.unitypackageをダウンロードして、プロジェクトにインポートします  
   
 3.&nbsp;Assets>Lulu_Tail_Moveの中にあるLulu_Tail_Move.prefabをアバター直下に追加します  
-<img src="image/Tail_Move.prefab配置場所.png" width="30%" />  
+&emsp;<img src="image/Tail_Move.prefab配置場所.png" width="30%" />  
   
 # 参考
 しぐにゃもブログ  

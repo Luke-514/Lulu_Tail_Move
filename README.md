@@ -40,6 +40,10 @@ Tちゃん
 わからん  
 ソアラ  
 くりたま  
+
+# 関連アセット
+・[まばたきシステム](https://github.com/Luke-514/Lulu_Mabataki)  
+・[なでなでシステム](https://github.com/Luke-514/Lulu_Nade)  
   
 # 寄付
 <a href="https://www.buymeacoffee.com/Luke514" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

@@ -5,7 +5,8 @@
 &emsp;<img src="image/Lulu_Tail_Move.gif" width="40%" />  
   
 # 注意事項など
-・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)です  
+・対応アバターはらすちんワークス様の[ルル (Lulu)](https://aoikarasu.booth.pm/items/4271776)、[ルル少年期（Lulu.juvenileVer)](https://aoikarasu.booth.pm/items/6101679)、  
+　[ルル（Ifの姿） (Lulu.AnotherVer)](https://aoikarasu.booth.pm/items/6544416)です  
 ・ExpressionParameterを9使用します  
 ・MMDボタンを削除している場合は尻尾振りが機能しない可能性があります  
 ・[床貫通対策コライダー](https://booth.pm/ja/items/4724758)を導入すると座った際に尻尾が沈まなくなります  

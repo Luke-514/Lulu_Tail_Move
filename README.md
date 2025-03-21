@@ -20,8 +20,7 @@
   
 # 参考
 しぐにゃもブログ  
-【VRChat】尻尾にIdleアニメを追加する方法（Fx-Float）  
-https://signyamo.blog/vrchat_not_humanoid_anim/  
+[【VRChat】尻尾にIdleアニメを追加する方法（Fx-Float）](https://signyamo.blog/vrchat_not_humanoid_anim/)  
   
 # 免責事項
 本アセットの使用によって発生した、いかなる損害に対しても作者は一切の責任を負いません  
